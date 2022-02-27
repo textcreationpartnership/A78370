@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Catholikes petition to Prince Rupert. Shewing [brace] the ground of their griefe. The force of their constancie. And their hopes of recovery. VVith a draught of a proclamation presented to his Highnesse, for the more speedy recruting his army, destroying the Protestants, and gaining a crowne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78370</idno>
+            <idno type="STC">Wing C1499</idno>
+            <idno type="STC">Thomason E4_4</idno>
+            <idno type="STC">ESTC R4212</idno>
+            <idno type="EEBO-CITATION">99872623</idno>
+            <idno type="PROQUEST">99872623</idno>
+            <idno type="VID">154687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154687)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E4[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Catholikes petition to Prince Rupert. Shewing [brace] the ground of their griefe. The force of their constancie. And their hopes of recovery. VVith a draught of a proclamation presented to his Highnesse, for the more speedy recruting his army, destroying the Protestants, and gaining a crowne.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order for G.B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 1. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A satire" - Thomason Catalogue.</note>
+                  <note>The words "The ground ... of recovery." are bracketed together on title page.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154687:1" rendition="simple:additions"/>
+            <p>THE <hi>CATHOLIKES</hi> PETITION TO PRINCE <hi>R<g ref="char:V">Ʋ</g>PERT.</hi>
+            </p>
+            <p>Shewing
+<list>
+                  <item>
+                     <hi>The ground of their Griefe.</hi>
+                  </item>
+                  <item>
+                     <hi>The force of their Conſtancie.</hi>
+                  </item>
+                  <item>
+                     <hi>And their hopes of Recovery.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>VVith a Draught of a <hi>Proclamation</hi> pre<g ref="char:EOLhyphen"/>ſented to his Highneſſe, for the more ſpeedy Recruting his Army, deſtroying the Proteſtants, and gaining a Crowne.</p>
+            <figure>
+               <figDesc>four Roman Catholic gentlemen and a monk present a petition to Prince Rupert</figDesc>
+            </figure>
+            <q>
+               <l>Prince looke about thee, here is much adoe,</l>
+               <l>'Tis time to looke, and lay about thee too;</l>
+               <l>Send obſtinate Offendors to their graves,</l>
+               <l>That neither will be Catholikes nor ſlaves.</l>
+            </q>
+            <p>Printed according to Order for <hi>G. B.</hi> Auguſt 1. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="2" facs="tcp:154687:2"/>
+            <head>The Catholikes Petition, <hi>TO Prince</hi> R<g ref="char:V">Ʋ</g>PERT.</head>
+            <opener>
+               <salute>Great and Gracious Prince,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE your poor and humble ſuppliants, the Catholike and other well-affected Subjects of your Magnanimi<g ref="char:EOLhyphen"/>ous Uncle CHARLES, ſole Monarch (under God and his Holineſſe) of Great <hi>Brittane,</hi> doe (as in duty bound) render unto you from our yet ſad foules, all poſſible love and thanks for your ſo timely and wil<g ref="char:EOLhyphen"/>ling aſſiſtance, in a cauſe ſo highly concerning the per<g ref="char:EOLhyphen"/>petuall proſperitie of the true Roman Catholike Religion, and the reeſta<g ref="char:EOLhyphen"/>bliſhing of his Holineſſe ancient Authoritie in theſe his Majeſties Realmes and Dominions, which for many ages paſt, hath made the Common<g ref="char:EOLhyphen"/>wealth proſperous, and the Crowne glorious. But great and grievous have our miſeries and afflictions now of late been, wee have had wonderfull burthens laid upon us for theſe many yeeres, and yet wee have born them with unparaler'd patience. Our Abbies have been demoliſh'd, our Prie<g ref="char:EOLhyphen"/>ries pull'd downe, and all our memorable Monaſteries either defaced, or converted to profane uſes; Our Maſſes have been ſcnff'd at as ridicu<g ref="char:EOLhyphen"/>lous, and our Prieſts and Jeſuites executed as Traitors; Our holy Beads have been taken from us, that we might not be able to render to our Lady a true account of the number of our Prayers: wee have been forc'dito goe to Church before any diſpenſation granted by his Holineſſe, and ſince we have gone willingly, they have tooke away the ſame prayers in Engliſh, that they would not ſuffer before in Latin; But that that herghtens the ſorrow of our ſoules, is the generall abuſe of that Name that ought not to
+<pb n="3" facs="tcp:154687:2"/>be mentioned without wonderfull reverence; his Holineſſe hath not only been diſpitefully reproach'd and rail'd upon amongſt the common peo<g ref="char:EOLhyphen"/>ple, but they have touch'd him with unhallowed hands, and ſoil'd him with poluted tongues, even in their Pulpits; No marvell though Preaching were cryed downe by the Biſhops, when <hi>Peters</hi> ſuceeſſor (their head) was cryed downe by inferior fellowes in their Sermons: But beſides this, wee muſt (forſooth) neither worſhip our Lady, nor make uſe of our Ladies <hi>Pſalter,</hi> but ſtill they have threatned to puniſh our bodies, for ſeeking to ſave our foules; wee muſt goe new wayes to work and entertaine a new Faith, and Doctrine, they would faine make us beleeve that wee cannot merrit heaven by giving Almes, but we muſt heare Sermons, and every one make his owne Prayers, or pray by the ſpirit, and ſo take a great deal of paines more then we need, to learn that we need not, and forſake the old Religion we are acquainted with, for a new one we underſtand not. After we had thus ſuffered a great deale of perſecution, with a great deal of patience, perceiving our reſolution to be immoveable, they began to lay new croſſes upon us by taking away our old ones, no corner was left un<g ref="char:EOLhyphen"/>ſearch'd for Crucifixes and other Pictures, our Altars were throwne down, our Candleſtickes turned into Coine, our Coapes into Cuſhians, our Sur<g ref="char:EOLhyphen"/>plices into Smockes, and that wee might take the leſſe pleaſure in our de<g ref="char:EOLhyphen"/>votions, our Singing-boyes, Ho-boyes, and Organ-pipes were doom'd to eternall ſilence. Alas, before this wee went to Church as well as beſt of 'em, and tooke as great delight i'the Service, nay ſometimes wee ſate out a whole Sermon: for indeed upon the diſcharge of Reverend <hi>Can<g ref="char:EOLhyphen"/>terburles</hi> leſt Canons, the tyde began to turne, and many learned men preach'd good Roman Doctrine, ſin and hell were mention'd with leſſe violence, and judgement with more mildneſſe, great faults were little aggrevated, and ſmall ones altogether wink'd at: wee had libertie from their owne mouthes to uſe honeſt recreation on Sundaies, and though for faſhion ſake (and to keep ordinarie judgements from apprehending their drifts) they ſpake againſt Poperie, yet we know their mindes well enough: but alas others (ſoone) knew 'em too well, they were quickly found out, accuſ'd and condemn'd, but (being Cannon proofe) a hundred of 'em are ſtill living with near a Living amongſt 'em. Theſe being ſuſpected to be of our ſide, becauſe we were perceiv'd to be on theirs, were thruſt out of the Church, and a company of Round heads put in that will not give his Maieſtie his old title <hi>Defender of the Faith</hi> in their prayers. But He<g ref="char:EOLhyphen"/>roicke Prince our greateſt griefe of all ariſes, from the voting out of the Reverend Biſhops, the onely upholders of our hopes, this hath blaſted all
+<pb n="4" facs="tcp:154687:3"/>our comforts, and driven us into diſpaire of ever recovering, unleſſe it be by the ſword.</p>
+            <p>Mightie Prince wee make humble tender of theſe our grievances to thy veiw, that the conſideration of our calamities, may raiſe thy high ſpi<g ref="char:EOLhyphen"/>rit yet a little higher, and put a new edge upon thy valour: for we cannot but be confident that our riſing or falling lies upon thy ſighting or flying. Thy valour wee doubt not, but be pleaſ'd to let us perſwade thee to per<g ref="char:EOLhyphen"/>forme principall actions at principall ſeaſons, fall not to plundering Prince when thou ſhouldeſt be a fighting, this is an errour wee ſuppoſe thou ſeeſt not in thy ſelfe, and therefore make bold to acquaint thee with, that thy noble endeaours hereafter may prove more ſucceſſefull. O deare Prince, (for deare thou haſt beene to <hi>England</hi>) now ſhew thy valour for the Catholike cauſe, let thy ſword flie like lightning in the head of thy Ar<g ref="char:EOLhyphen"/>mie, be true to the Roman Church, and as ſalſe as thou wilt otherwiſe, play the man when thou art in the battell, and the thiefe when thy leiſure will ſerve thee and ſpare not: for thou ſhalt become famous for that too, as well as for killing, thy names up alreadie, thou art ſeldome call'd Prince, but Plunderer is added as an addition to thy Honour. Follow thy fortune ſtill Prince, purchaſe yet more wealth and more titles, let them call thee at their pleaſures, and do thou rob them at thine, borrow their horſes, their plate and money, and if they demand reſtitution pay 'em with thy Polax. Thou art a Prince of the Blood-Royall, let them not catch thee and they cannot queſtion thee: but ſweet Prince keepe out of their clutches by all meanes poſſible, if occaſion ſerve make uſe of thy horſe, and force him to make uſe of his heeles; ſtand not altogether upon thy ſtrength, nor too nicely upon thy honour; runne rather then be taken, thou hadſt better be calld a coward behinde thy backe, then a priſoner to thy face, if thou com'ſt once within the reach of the Round-head, looke for little mercie and leſſe manners; if they rip not up thy body, they'l rip up all thy faults to thy face. O thou ſhalt ſinde them terrible fellower. They'l upbraid thee with all thy valiant exploits and enterpriſes, and make them (if it were poſſible to appeare odious in thine owne eyes. They'l ſay thou art an impudent young man to rob that countrey ſo ſhamefully, that hath paide for thy nutſing and breeding ſo carefully; they'l tell thee that theft is a bominable, rape execrable, and murther damnable. They'l doe their beſt to make thee beleeve, that tis felonie in <hi>England</hi> to burne houſes and ſteale horſes, and that Turks and Infidels would have ſhowne more mercie, and leſſe crueltie then thou haſt done heere. They'l per<g ref="char:EOLhyphen"/>ſwade thee (if they can) that villanies committed in this world, muſt be
+<pb n="5" facs="tcp:154687:3"/>anſwered for in another; that ther's a God above before whom thou ſhalt one day appeare, that will make no difference at all betwixt the greateſt Prince, and the meaneſt peaſant; and that ther's a place car'd Hell prepa<g ref="char:EOLhyphen"/>red of purpoſe to torment bloodie Tyrants and cruell Perſecuters. And thus by degrees (if thou ſhould but give eare to them) they might per<g ref="char:EOLhyphen"/>haps ſtirre up remorſe in thy conſcience, and repentance in thy foule, And where were we then? What would become of our religion that hath coſt ſo much blood in Chriſtendome if thou ſhouldeſt fall from us? Though we have waſted our brains and hazarded our lives theſe many yeers paſt in plotting the ruine of theſe Round. heads in vain, though our great expecta<g ref="char:EOLhyphen"/>tions that the Popes abſolute dominion ſhould have bin reſotti'd here, by the powerfull aſſiſtance of the great 88. Armado were utterly fruſtrate, though our failing of blowing up the Parliament Houſe blew up all our hopes of ever proſpering by any powderplot, though all our former indea<g ref="char:EOLhyphen"/>vours to have poiſon'd and ſtabb'd Queen <hi>Eliz.</hi> came to nothing; yet we were never daunted nor diſmar'd, but ſtil kept up our ſpirits, &amp; held up our heads; but if we faile now we fall utterly, this is our talleſt and our ſtrong<g ref="char:EOLhyphen"/>eſt building, if this decay no more Babels, nor no more builders, no more Catholikes nor Catholike Commanders, the glory of <hi>Rome</hi> muſt lie r'the duſt for ever. But Heroicke Prince ſticke thou cloſe to us, keep can faith above our feares till this brunt be over, and all's our owne. Nor that your Highneſſe may goe on with the more courage, wee humbly preſent unto you theſe Conſiderations. Note illuſtrious Prince, that in former times we had alwayes a King or a Queene as well as a State to oppoſe us, and yet though wee fair'd we never fainted: but now wee have a King to countenance us, a Queene to encourage us, politicke Councellers to in<g ref="char:EOLhyphen"/>ſtruct us, and two or three great Armies on foot to fight for us; beſides the brave and reſolute Iriſh (already bloode'd in the quarrell) to aſſiſt us, and is this ods nothing? ſhall wee be diſcourag'd now, or ſuffer any conceit of a nearer cut to heaven then we are acquainted with, to cut off the leggs of our reſolutions, i'the middle of our journey? No Prince, wee know (being imbark'd) thoul't not ſtrike ſaile though the winde be againſt thee, and wee are reſolv'd to venter the veſſell, if thou't hazard thy perſon; heer's Sea-roome enough, though there are ſome Shelves and Quick<g ref="char:EOLhyphen"/>ſands, Rocks and Remora's, and thou canſt nor ſaile a League but thou ſhalt meet with a Prize. O 'tis a brave thing to be a thiefe when a man has authoritie to bear him out in't, and a fine eaſie thing for a multitude of Arm'd men to rob a few naked people. Men were wont to take pur<g ref="char:EOLhyphen"/>ſes, and breake houſes in feare. Stand and deliver were dangerous words;
+<pb n="4" facs="tcp:154687:4"/>but now the caſe is alter'd, he that was a thiefe before, is now better then a true man, and hee thats a true man now is worſe then a thiefe, Thou haſt many ſuch brave blades in thy armie Prince, that deſerve to be of thy Life-Guard, they are ſo neere thee in ſpirit and condition, tis fit they ſhould be neare thy perſon, make much of 'em. Wee dare not but ac<g ref="char:EOLhyphen"/>quaint your Highneſſe with the great noiſe that flies about the kingdome of an overthrow you had at <hi>Yorke;</hi> but we admire what Kings raigne 'ewas in, for King <hi>Charles</hi> and his Councell at <hi>Oxford</hi> made Bonefires at the ſame time for the ſame victorie; and ſhall wee beleeve his Majeſtie will turne Round, or make leſſe fires then of whole Townes, for the glory of the Round-heads? No, wee'll beleeve that newes neere the more for their ringing, and new-made holy-day at <hi>London,</hi> 'tis nothing but a trick to diſcourage us; but the truth is we ſhould be loath to beleeve it though we know it to be true: Yet noble Prince if thou haſt received any loſſe, if they have kill'd and taken more of thy Men, Horſe and Armes then thou canſt well ſpare, thou knoweſt how to help thy ſelfe quickly, here are men enough in <hi>England,</hi> and thou haſt wayes enough to win them; flie abroad againe, range the Countries, try all thy friends in the North, make uſe of thy owne Dukedome, force all ſuch as call themſelves Pro<g ref="char:EOLhyphen"/>teſtants, to fight for the Proteſtant Religion; and yet where good words will prevaile, uſe no violence, ſet thy Engineers on worke to try their tempers and diſcover their humors, that according to iudgement they may incurage the fearefull, flatter the fooliſh, and threaten the obſtinate, till all are become ſufficiently perſwaded they ſhall fight for the honour of the King, the preſervation of the Lawes and the Libertie of the Subiect; and then tell them Stories of preferment, and promiſe them wealth and honour, that they may be earneſt and eager in the battell; and for their greater glorie ſet them ſtill in the Front, and put them upon the Forlorne<g ref="char:EOLhyphen"/>hope, that their friends and they may kill one another valiantly, whil'ſt we keepe ſafe r'the Reare, and laugh to ſee our enemies die ſo willingly for the ſecuritie of us and our Religion, This is the depth of the plot Prince, carrie it cloſely, you may be ſure there will be no Catholikes againſt you, and therefore feare not to kill them, and ſuch as are on your ſide indea<g ref="char:EOLhyphen"/>vour to preſerve them, for why ſhould wee hazard our perſons againſt an enemie that will undergoe the danger himſelfe and doe our worke for us: But that your Highneſſe may recrute your Armie with the more facillitie and celeritie, we have made bold to preſent you with the draught of a Proclamation, that perhaps you may be pleaſed to make uſe of for that purpoſe.</p>
+            <floatingText xml:lang="eng" type="proclamation">
+               <body>
+                  <pb n="5" facs="tcp:154687:4"/>
+                  <head>
+                     <hi>The</hi> Proclamation.</head>
+                  <p>
+                     <hi>ALL brave and generous Proteſtants that are deſirom to purchaſe wealth and honour by ventring their lives for the preſervation of their Lawes, Liberties, and Religion, Let them with all expedition repaire to the Quarters of the Magnanimous</hi> Prince Rupert, <hi>Duke of</hi> Cumberland, <hi>Ge<g ref="char:EOLhyphen"/>nerall of all his Majeſties. Forces in the North, where they ſhall receive preſent entertainment as followeth</hi> (viz.) <hi>Every man upon his entertainment is to ac<g ref="char:EOLhyphen"/>comodate himſelfe with a Horſe, which he is to take where he can finde him, ei<g ref="char:EOLhyphen"/>ther in the Stable or Paſture, with bridle, ſaddle, and all other furniture fit for his owne riding, and his Highneſſe Scrvice; which Horſe and Furniture to be paid for at his Highneſſe price as ſoone as the Rider ſhall be Knighted by his Ge<g ref="char:EOLhyphen"/>nerall for his good Service. Secondly, Thatt every Souldier upon his March, or otherwiſe, ſhall have free Quarter in all places, as the beſt lodging and vi<g ref="char:EOLhyphen"/>ctuall the Countrey can afford without one penny pay, only his Highneſſe doth paſſe his Princely Word to ſee all diſcharg'd, upon his firſt peaceable poſſeſſion of his Dukedome of</hi> Cumberland. <hi>Thirdly, that every Souldier that ſhall want wearing cloathes or linnin may lawfully at all times, and in all places take what will ſerve his turne, from ſuch as may beſt ſpare it (Catholiques onely excep<g ref="char:EOLhyphen"/>ted) Nevertheleſſe his Highneſſe out of his zeale to Juſtice, doth oblige him<g ref="char:EOLhyphen"/>ſelfe by his inviolable promiſe to ſee reſtitution made when the Proteſtant Re<g ref="char:EOLhyphen"/>ligion he fights for ſhall againe flouriſh in England. And laſtly, though the Souldier ſhall want no money to ſpend, by reaſon of the free Quarter, yet for his better incouragement, and that if he ſhall out-live the warres, he may have a computencie as well of wealth as honour to ſupport him, it ſhall be lawfull for all Officers from the Collonell to the Corporall to take with them what Company of Souldiers they ſhall thinke fit, and upon ſearch made, to ſeaze upon all ſuch Jewels, Plate, or Money as they ſhall finde, the one halfe whereof to be divided amongſt them, and the other to be diſpoſed of by his High<g ref="char:EOLhyphen"/>neſſe. Notwithſtanding all ſuch Money, Plate, and Jewels ſo found and taken away are to be likewiſe reſtored to the proper owners within one whole yeare af<g ref="char:EOLhyphen"/>ter his highneſſe ſolemne Coronation in</hi> Ireland.</p>
+               </body>
+            </floatingText>
+            <p>But for your ſouldiers medling with women, or killing of men, wee al<g ref="char:EOLhyphen"/>together leave that to your Highneſſe owne diſpoſure, none knowing bet<g ref="char:EOLhyphen"/>ter than your ſelfe how to order your men 'ith affaires of fleſh and blood,
+<pb n="8" facs="tcp:154687:5"/>we are confident that the publiſhing of this or the like Proclamation vvill be a meanes to animate divers that have not yet taſted the ſweetneſſe of your Highneſſe bountie (at the coſt of the Kingdome) in the vvay of vvarre to come into your aſſiſtance: for vvhich vvee have thought it our duties to give you this hint.</p>
+            <p>This vvay (if any) vvill raiſe men quickly, and make your High<g ref="char:EOLhyphen"/>neſſe able to recover <hi>Yorke</hi> againe before we ſhall be able to beleeve 'tis loſt: But ther's another report Prince of a ſad diſaſter befalne thee, They ſay the Parliament Dog-killers have knock'd thy Spaniell o'the head; this we are loft to beleeve to, being ſo well acquainted with thy Dogs courtlike and vvarlike behaviour and condition, he hath done many exploits, been in many fights, and ſcap'd many dangers, and being Muſ<g ref="char:EOLhyphen"/>ket proofe as well as thy ſelfe, we are confident hee's a living Dog to this houre, and will ſtill be a help to thee in dangerous expeditions: But thou beſt knoweſt his breeding Prince, make uſe of him, if he has any more vvit then a dogge get it out of him, and imploy it for the advantage of the cauſe. Conſider Prince the great vvorke thou haſt to do, and the wa<g ref="char:EOLhyphen"/>ges thou art to receive, and fall to't hard; the Iriſh now helpe thee, and <hi>Ireland</hi> expects thee, do but ruine this kingdome, and thou ſhalt have that for thy labour. O thou't be entertain'd and imbrac'd there by a people according to thine own heart, a vvarlike Nation, noble ſpirited, right Ro<g ref="char:EOLhyphen"/>man Catholike ſubjects, ſuch as will be ready at all times to loyne with the Spaniard againſt the Holland, Engliſh and Scottiſh Proteſtant Rebels, Therefore good Prince diſpatch, doe that thou cam'ſt for, ſpoile all here as faſt as thou canſt, make an end of the Proteſtants in <hi>England</hi> quickly, and we ſhall not only think our ſelves bound to pray for your Highneſſe long life and happy Raign in <hi>Irland;</hi> but alſo be ready to venter our eſtates and lives in your ſervice, till we ſhall ſee that rich Diademe impale your victorious brow.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
